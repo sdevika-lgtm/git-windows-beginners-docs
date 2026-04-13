@@ -45,6 +45,7 @@ git add .
 ```
 #### Example Output
 ![Git Add](images/git-add.png)
+![Git Add](images/git-add.png)
 #### Explanation
 - Moves files from untracked to staged
 - Prepares files for committing
@@ -216,17 +217,16 @@ git reset
 Use this command when you accidentally staged files.
 ### c. `git revert`
 #### Description
-Merges changes from one branch into another.
+Creates a new commit that reverses a previous commit.
 #### Command
 ```bash
-git revert
+git revert <commit-id>
 ```
 #### Example Output
-![Git revert](images/git-revert.png)
+![Git Revert](images/git-revert.png)
 #### Explanation
-- Combines changes from branches
-- Updates the current branch
+- Safely undoes a commit
+- Does not remove history
 #### When to Use
-Use this command to integrate changes from another branch.
+Use this command to undo changes that have already been committed.
 
-Temporary change
