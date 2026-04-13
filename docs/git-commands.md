@@ -1,5 +1,29 @@
 # Git Commands Explained
 ## Table of Contents
+1. [Basic Workflow](#1-basic-workflow)
+   - [git init](#a-git-init)
+   - [git status](#b-git-status)
+   - [git add](#c-git-add)
+   - [git commit](#d-git-commit)
+
+2. [Viewing Changes](#2-viewing-changes)
+   - [git log](#a-git-log)
+   - [git diff](#b-git-diff)
+
+3. [Remote Commands](#3-remote-commands)
+   - [git push](#a-git-push)
+   - [git pull](#b-git-pull)
+   - [git fetch](#c-git-fetch)
+
+4. [Branching](#4-branching)
+   - [git branch](#a-git-branch)
+   - [git switch](#b-git-switch)
+   - [git merge](#c-git-merge)
+
+5. [Undo and Fixing](#5-undo-and-fixing)
+   - [git restore](#a-git-restore)
+   - [git reset](#b-git-reset)
+   - [git revert](#c-git-revert)
 ## 1. Basic Workflow
 ### a. `git init`
 #### Description
@@ -98,7 +122,7 @@ git diff
 - Lines starting with `-` are deletions
 #### When to Use
 Use this command to review changes before staging or committing them.
-## 3. Working With Remote
+## 3. Remote Commands
 ### a. `git push`
 #### Description
 Uploads local commits to the remote repository, like GitHub.
