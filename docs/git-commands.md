@@ -69,7 +69,6 @@ git add .
 ```
 #### Example Output
 ![Git Add](images/git-add.png)
-![Git Add](images/git-add.png)
 #### Explanation
 - Moves files from untracked to staged
 - Prepares files for committing

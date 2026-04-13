@@ -19,6 +19,7 @@ The project is intended for:
 
 - [Quick Start Guide](docs/quick-start-guide.md)
 - [Installation Guide](docs/installation-guide.md)
+- [Git Commands](docs/git-commands.md)
 - [FAQ](docs/faq.md)
 
 ## What This Project Covers
@@ -43,4 +44,10 @@ The goal of this repository is to provide clear, beginner-friendly Git documenta
 
 ## Notes
 
-This project currently focuses on local Git workflows. GitHub collaboration workflows can be added in a future update.
+This project currently focuses on **local Git workflows and fundamentals**.
+
+Future improvements may include:
+
+- GitHub collaboration workflows  
+- pull requests and branching strategies  
+- real-world team workflows  
