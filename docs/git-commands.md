@@ -252,4 +252,4 @@ git revert <commit-id>
 - Does not remove history
 #### When to Use
 Use this command to undo changes that have already been committed.
-
+> Related guide: [Git Common Errors and Fixes](git-common-errors-and-fixes.md)

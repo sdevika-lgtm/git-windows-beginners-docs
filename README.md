@@ -20,6 +20,7 @@ The project is intended for:
 - [Quick Start Guide](docs/quick-start-guide.md)
 - [Installation Guide](docs/installation-guide.md)
 - [Git Commands](docs/git-commands.md)
+- [Git Common Errors and Fixes](docs/git-common-errors-and-fixes.md)
 - [FAQ](docs/faq.md)
 
 ## What This Project Covers

@@ -2,14 +2,14 @@
 A beginner's guide to understanding how to fix error while using git commands.
 ## Table of Contents
 1. [git not recognized](#git-not-recognized)
-2. nothing to commit
-3. untracked files
-4. merge conflict
-5. invalid branch name
-6. command not found
-7. lost changes after restore
-8. revert blocked by local changes
-9. editor waiting issue
+2. [nothing to commit](#nothing-to-commit)
+3. [untracked files](#untracked-files)
+4. [merge conflict](#merge-conflict)
+5. [invalid branch name](#invalid-branch-name)
+6. [command not found](#command-not-found)
+7. [lost changes after restore](#lost-changes-after-restore)
+8. [revert blocked by local changes](#revert-blocked-by-local-changes)
+9. [editor waiting issue](#editor-waiting-issue)
 ## git not recognized
 ### a. Error
 ```bash
@@ -117,3 +117,4 @@ Git opened editor for commit message.
 ### c. Fix
 - Save file (ctrl+S)
 - Close the editor tab
+> Related guide: [Git Commands Explained](git-commands.md)
